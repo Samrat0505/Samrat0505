@@ -14,7 +14,7 @@
   <img src="https://komarev.com/ghpvc/?username=Samrat0505&style=flat-square&color=blue" alt=""/>
 </div>
 <h1 align="center">
-  Hi there 👋
+  Hi there, I'm Shreyansh Dubey 👋
 </h1>
 
 ### :man_technologist: About Me :
